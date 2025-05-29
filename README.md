@@ -1,4 +1,6 @@
 # Ex-01-Linux-Commands
+## Name: Deepika S
+## Register Number: 212222230028
 
 
 ## Aim:
@@ -221,24 +223,6 @@ Syntax: df
 The find command is used to find a particular file within a directory.
 
 Syntax: find.-name”*.pdf”
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
 
 
